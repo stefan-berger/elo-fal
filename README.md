@@ -10,3 +10,5 @@ You need a running instance of TYPO3 CMS 6.2 or higher.
 
 Communication between TYPO3 an ELO is done by ELO Index Server.
 ELO Office does not include "ELO Index Server", you need ELO Professional or higher.
+
+Network access: TYPO3 must be able to connect to ELO Index-Server.
